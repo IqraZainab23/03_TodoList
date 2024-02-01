@@ -12,11 +12,10 @@ This project is a ToDo List application designed to help users manage their task
 - ***Responsive Design:*** User interface adapts to various screen sizes for optimal usability.
 
   ## Usage
-Run the calculator:
+Run the Project:
 ```bash
 npx 03_todolist
 ```
-Follow the prompt to perform calculations with style!
 
 ## Dependencies
 `Inquirer`: Provides the interactive prompt interface.
