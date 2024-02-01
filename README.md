@@ -6,10 +6,10 @@ This project is a ToDo List application designed to help users manage their task
 
 ## Features
 
-- **Task Creation:** Easily add new tasks with relevant details.
-- **Task Modification:** Update task information or mark tasks as complete.
-- **Task Deletion:** Remove tasks that are no longer needed.
-- **Responsive Design:** User interface adapts to various screen sizes for optimal usability.
+- ***Task Creation:***  Easily add new tasks with relevant details.
+- ***Task Modification:*** Update task information or mark tasks as complete.
+- ***Task Deletion:*** Remove tasks that are no longer needed.
+- ***Responsive Design:*** User interface adapts to various screen sizes for optimal usability.
 
   ## Usage
 Run the calculator:
