@@ -14,7 +14,7 @@ This project is a ToDo List application designed to help users manage their task
   ## Usage
 Run the calculator:
 ```bash
-npx 02_atm
+npx 03_todolist
 ```
 Follow the prompt to perform calculations with style!
 
