@@ -22,6 +22,6 @@ npx 03_todolist
 
 `Chalk`: For styling and coloring the output.
 
-Issues
+## Issues
 If you encounter any issues or have suggestions, please message me on the [GitHub](https://github.com/IqraZainab23).
  
